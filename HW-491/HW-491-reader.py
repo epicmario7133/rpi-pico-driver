@@ -1,7 +1,7 @@
 import machine
 import utime
 
-analog_value = machine.ADC(28)
+analog_value = machine.ADC(28) #read gpio 28
 
 while True:
     reading = analog_value.read_u16()     
