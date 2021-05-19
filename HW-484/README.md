@@ -20,5 +20,6 @@ Whit buzzer:
 
 
 | Pico  | Buzzer |
+| ------------- | ------------- |
 | GP0  | buzzer +  |
 | GND  | buzzer -  |
