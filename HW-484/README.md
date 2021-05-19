@@ -17,5 +17,8 @@ Whit buzzer:
 | GND  | G  |
 | 3v3(OUT)  | +  |
 | GP28  | AO  |
-| buzzer +  | GP0  |
-| buzzer -  | GND  |
+
+
+| Pico  | Buzzer |
+| GP0  | buzzer +  |
+| GND  | buzzer -  |
